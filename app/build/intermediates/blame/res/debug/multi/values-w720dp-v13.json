@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/home/it/.android/build-cache/c48c184a0ac1d12a1370def0283bdee1ce064971/output/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 76,
+                        "endOffset": 354
+                    }
+                }
+            }
+        ]
+    }
+]

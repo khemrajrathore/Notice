@@ -1,0 +1,7 @@
+#Thu Aug 03 20:14:16 IST 2017
+base.0=/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b19a7af2590040f68cf990f788240bfc5df6463d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4e8d4c9b03040aa88b696cc8d47993691f122182/classes.dex
+base.1=/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4e8d4c9b03040aa88b696cc8d47993691f122182
+file.0=/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b19a7af2590040f68cf990f788240bfc5df6463d/classes.dex

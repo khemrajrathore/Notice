@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/it/.android/build-cache/a66cc0b4b197465782c5b77cf360abf768e81068/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/it/.android/build-cache/a66cc0b4b197465782c5b77cf360abf768e81068/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/it/.android/build-cache/a66cc0b4b197465782c5b77cf360abf768e81068/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/it/.android/build-cache/a66cc0b4b197465782c5b77cf360abf768e81068/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

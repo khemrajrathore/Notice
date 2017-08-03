@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/it/.android/build-cache/e7e243d7444c1dd6f31b52102a644f79f706a6b0/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_44a3528536eab867b26ad21a719f3d313e44598e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/.android/build-cache/a66cc0b4b197465782c5b77cf360abf768e81068/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a5f71e9d4a179296f87972597c2b148f1118188/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/.android/build-cache/f7e6ef7155270ed122d622df1a7ac8e3f705494c/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8c35d5b1e620972b45ae55b06fd440b98c7032f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/.android/build-cache/0cd3fd3b9adf3393ed00c2ef7847e6947db587e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0010c2b1efca28a75b7fdd1fcd3adccc51d057de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/.android/build-cache/89c2c331dad977da7dde2201ee81c54a4ec29b3c/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_92448138f4971270feae65d4d209f4eb50e12313/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/.android/build-cache/89c2c331dad977da7dde2201ee81c54a4ec29b3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9665caee102cc4a3b4fdf5b547a3abbb181a1c48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/.android/build-cache/f7e6ef7155270ed122d622df1a7ac8e3f705494c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9c5eff9c8b8a3fd60bbdac7dbb2f4933683e19a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/.android/build-cache/00eca033f30cec21f650419165091d1ddbd40e22/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d95aeb4e20e0f23e08ae069953e1f05b73822093/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9695221795686f061dcec2e68dda7dbdbcdfd52">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b19a7af2590040f68cf990f788240bfc5df6463d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/.android/build-cache/e7e243d7444c1dd6f31b52102a644f79f706a6b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_878778074884cb9496904893765e30f2d04ef1bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/.android/build-cache/d9292967b7f2e9e2b0124326cc594f4ee9616337/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_032d85c631068bc265a1c81bf0e7d702b00a1b65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_f3f14ba7d56b5839f554c360ddb7674a61eaac63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/.android/build-cache/caa9bbc47529d38b5ef9032bbd1e94f74c42e3c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb18942c9788fbd42b20e105495fc6e77376da28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/.android/build-cache/00eca033f30cec21f650419165091d1ddbd40e22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7460968db1422f1cf98aebbffa38b726dc522119/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4e8d4c9b03040aa88b696cc8d47993691f122182/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/.android/build-cache/858e170de4f02e5a42fd9678fa5deede3326e689/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b76591098db7bbe841dc95c55bdac086050f8e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/it/.android/build-cache/858e170de4f02e5a42fd9678fa5deede3326e689/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/it/Downloads/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_33e7073dce9d682683a615127e7af0761d9f45d3/classes.dex" />
+    </item>
+
+</items>
